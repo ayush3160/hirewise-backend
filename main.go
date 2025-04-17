@@ -1,10 +1,11 @@
 package main
 
 import (
-	"hirewise-backend/config"
-	"hirewise-backend/database"
-	"hirewise-backend/server"
 	"os"
+
+	"github.com/ayush3160/hirewise-backend/config"
+	"github.com/ayush3160/hirewise-backend/database"
+	"github.com/ayush3160/hirewise-backend/server"
 )
 
 func main() {

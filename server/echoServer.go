@@ -2,8 +2,9 @@ package server
 
 import (
 	"fmt"
-	"hirewise-backend/config"
-	"hirewise-backend/database"
+
+	"github.com/ayush3160/hirewise-backend/config"
+	"github.com/ayush3160/hirewise-backend/database"
 
 	"github.com/labstack/echo/v4"
 )

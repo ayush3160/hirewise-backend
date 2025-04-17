@@ -1,4 +1,4 @@
-module hirewise-backend
+module github.com/ayush3160/hirewise-backend
 
 go 1.24.2
 

@@ -2,8 +2,9 @@ package database
 
 import (
 	"fmt"
-	"hirewise-backend/config"
 	"sync"
+
+	"github.com/ayush3160/hirewise-backend/config"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
